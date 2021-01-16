@@ -1,0 +1,9 @@
+# this is my Demo
+I am writing my first file . 
+Iam learning new things >>
+I am learning brach
+<<<<<<< HEAD
+This is branch master
+=======
+bad-brach status 
+>>>>>>> very-bad
